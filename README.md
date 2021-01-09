@@ -2,24 +2,27 @@
 # Dillan's User Page
 # C++
 
+![](./picture/Slide3.jpg)
+
 # Largest heading
 ## Second largest heading
 ###### Smallest heading
 
+### Styling text:
 This sentence will cover the styling texts: **this is bold**, *this is italicized*, ~~this is crossed out~~, ***bolded and italicized***, **bolded but _this is italicized_**
 
-###Quoting text: 
+### Quoting text: 
 > This is quoted
 
-###Quoting code:
+### Quoting code:
 You can use Quoting code to call out code or a command: `git checkout`
 
-###Links: 
+### Links: 
 I can link my own personal website(https://dillanmerchant.github.io/website/)
 
-###Section links: 
+### Section links: 
 
-###Lists: 
+### Lists: 
 - Item 1 
 - Item 2 
 - Item 3
@@ -29,4 +32,4 @@ I can link my own personal website(https://dillanmerchant.github.io/website/)
 - [ ] Get an A in CSE 110 
 - [ ] Graduate
 
-# [zion] (https://www.doi.gov/sites/doi.gov/files/uploads/ZionNPTomMorrisSmall.jpg)
+[Go to top](#LAB1-CSE110)
