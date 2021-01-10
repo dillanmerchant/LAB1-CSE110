@@ -18,7 +18,7 @@ This sentence will cover the styling texts: **this is bold**, *this is italicize
 This command allows you to go to a certain branch: `git checkout`
 
 ### Links: 
-I can link my own personal website(https://dillanmerchant.github.io/website/)
+I can link my own [personal website](https://dillanmerchant.github.io/website/)
 
 ### Lists: 
 - Waffles 
